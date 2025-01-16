@@ -2,8 +2,8 @@
 UofT bootcamp module 3 assignment
 
 PyBank's main.py is in
-[main.py](pybank/main.py)
+[main.py](PyBank/main.py)
 
 PyPoll's main.py is in
-[main.py](pypoll/main.py)
+[main.py](PyPoll/main.py)
 
