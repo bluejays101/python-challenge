@@ -9,4 +9,3 @@ PyPoll's main.py is in
 
 This assignment is completed in collaboration with class collegue "Rob Ranieri"
 
-testing testing
