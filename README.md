@@ -7,3 +7,4 @@ PyBank's main.py is in
 PyPoll's main.py is in
 [main.py](PyPoll/main.py)
 
+This assignment is completed in collaboration with class collegue "Rob Ranieri"
